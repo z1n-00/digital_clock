@@ -1,6 +1,6 @@
 ### Digital_Clock
 ____________________
-   Digital clock is a clock whick will turn the dark theme when the time is at 6pm. And vice versa, when the time is at 7am, the background will turn into light theme again. In this digital clock, it shows the hours, the minutes, the seconds and meridiem time(am and pm).It was build by using javascript.
+   Digital clock is a clock which will turn the dark theme when the time is at 6pm. And vice versa, when the time is at 7am, the background will turn into light theme again. In this digital clock, it shows the hours, the minutes, the seconds and meridiem time(am and pm).It was build by using javascript.
    
    
    ### Day Time Theme
